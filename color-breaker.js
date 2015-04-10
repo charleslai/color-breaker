@@ -5,7 +5,7 @@
 */
 
 //Constants
-var UPDATE_INTERVAL = 100;
+var UPDATE_INTERVAL = 1;
 var LONG_UPDATE_INTERVAL = 10000;
 
 //Main color clicking function
