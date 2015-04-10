@@ -1,6 +1,6 @@
 /*
-  unfeed.js
-  Removes key profile information from the newsfeed
+  color-breaker.js
+  Makes stuff unfun
   @author: Charles J Lai
 */
 
@@ -25,8 +25,6 @@ function clickColors() {
 ///////////////
 //MAIN SCRIPT//
 ///////////////
-// Initialize the click event
-
 //Initial run of the script
 clickColors();
 //Attempt to remove more information on UPDATE_INTERVAL
