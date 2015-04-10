@@ -19,6 +19,7 @@ function clickColors() {
   for (var i = 0; i < colorboxes.length; i++){
     //trigger the evevnt
     colorboxes[i].dispatchEvent(click_ev);
+    colorboxes[colorboxes.length-i-1].dispatchEvent(click_ev);
   }
 }
 
